@@ -13,6 +13,7 @@
 | [IntelliJ IDEA](https://www.jetbrains.com/idea/)          | 2019.1 avobe |
 | [Git](https://git-scm.com/)                | We recommend [source-tree](https://www.sourcetreeapp.com/)          |
 
+
 ### Install IntelliJ IDEA, Source Tree
 
 The project manages the version of IntelliJ IDEA
@@ -21,7 +22,6 @@ The project manages the version of IntelliJ IDEA
 2. Install
 3. Clone the Repository above
 
-In the project root as follows are performed through the `.nvmrc`
 
 ### Description
 This Project Written for Who need Netty TCP Server Example for Business Level.
