@@ -10,7 +10,7 @@
 ### Prerequisites
 | Require                              | Description                                                               |
 | ------------------------------------ | ------------------------------------------------------------------------- |
-| [IntelliJ IDEA](https://www.jetbrains.com/idea/)          | 2019.1 avobe |
+| [IntelliJ IDEA](https://www.jetbrains.com/idea/)          | 2019.1 above |
 | [Git](https://git-scm.com/)                | We recommend [source-tree](https://www.sourcetreeapp.com/)          |
 
 
